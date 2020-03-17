@@ -3,17 +3,17 @@ abstract: "This paper examines how Black members of Congress (MC) have recognize
 authors:
 - admin
 date: "2019-05-05"
-doi: ""
+doi: "https://doi.org/10.1525/nrbp.2020.1.1.69"
 featured: true
 image:
   caption: 'Image credit: [**CNN**](https://www.cnn.com/2012/03/28/politics/congressman-hoodie/index.html)'
   focal_point: ""
   preview_only: false
-publication: 'Unpublished Manuscript'
+publication: '*National Review of Black Politics* 1 (1): 69-79.'
 publication_short: 
 publication_types:
 - "3"
-publishDate: "2019-07-21T00:00:00Z"
+publishDate: "2020-01-21T00:00:00Z"
 summary: "Congress -- despite ever increasing numbers of black members -- does not care about police brutality."
 tags:
 - black politics

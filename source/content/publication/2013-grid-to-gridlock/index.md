@@ -10,7 +10,7 @@ date: "2013-11-27T00:00:00Z"
 doi: "https://doi.org/10.7448/IAS.16.1.18446"
 featured: false
 projects: []
-publication: '*Journal of the International Aids Society* 16 (1)'
+publication: '*Journal of the International AIDS Society* 16 (1)'
 publication_short: ""
 publication_types:
 - "2"
