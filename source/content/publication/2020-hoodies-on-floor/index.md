@@ -12,7 +12,7 @@ image:
 publication: '*National Review of Black Politics* 1 (1): 69-79.'
 publication_short: 
 publication_types:
-- "3"
+- "2"
 publishDate: "2020-01-21T00:00:00Z"
 summary: "Congress -- despite ever increasing numbers of black members -- does not care about police brutality."
 tags:
