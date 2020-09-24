@@ -3,7 +3,7 @@
 #
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
-publishDir = "C:/Users/matth/OneDrive/R Code/website/mbplatt.github.io"
+publishDir = "C:/Users/matth/OneDrive/Matthews Website/mbplatt.github.io"
 
 # Title of your site
 title = "Matthew B. Platt"
